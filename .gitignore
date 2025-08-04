@@ -1,0 +1,14 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*LICENSE.txt
+*terraform-provider-aws_v6.7.0_x5
+crash.log
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+terraform.tfvars.json
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+.terraform.tfstate.lock.info
