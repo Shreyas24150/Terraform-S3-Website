@@ -42,10 +42,10 @@ After terraform apply, you'll see an output like
 website_url = http://s3-web-tf-bug24-20250804.s3-website-us-east-1.amazonaws.com
 ```
 
-**Open this URL in your browser!**
+**Open this URL in your browser!**- website!!
 
 
-**Note**
+**Note**-
 **Destroying terraform**
 
 Manually Empty the Bucket Before Deletion
